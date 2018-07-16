@@ -4,12 +4,12 @@ Created on 2018-07-15
 @author: steven
 '''
 
-# from hello import print_hello
+# from hello_c import print_hello
 
 from module.hello import print_hello
-# from module.hello import
+# from module.hello_c import
 # import module
-# module.hello.
+# module.hello_c.
 from module.hello import call_hello_c_code
 
 print_hello()
